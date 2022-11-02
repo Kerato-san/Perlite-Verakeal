@@ -61,7 +61,7 @@ function parseContent($requestFile) {
 
 	//$Parsedown = new ParsedownExtra();
 	$Parsedown = new PerliteParsedown();
-	$Parsedown->setSafeMode(true);
+	$Parsedown->setSafeMode(false);
 	$Parsedown->setBreaksEnabled($lineBreaks);
 	$cleanFile = '';
 

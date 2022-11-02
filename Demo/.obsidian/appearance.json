@@ -1,7 +1,17 @@
 {
-  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Theme - All Alternate Themes",
+    "S - Callouts",
+    "BigEmbed",
+    "modal-bg",
+    "S - Encoded Icons"
+  ],
+  "theme": "moonstone",
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
   "translucency": false,
-  "baseFontSize": 18,
-  "accentColor": "",
-  "cssTheme": "Clair de Lune"
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "accentColor": ""
 }
